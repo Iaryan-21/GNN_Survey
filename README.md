@@ -1,7 +1,7 @@
 # Graph Neural Network Survey
 
 1) A Comprehensive Survey on Graph Neural Networks. arxiv 2019. Link: https://arxiv.org/pdf/1901.00596
-Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.
+\n Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.
 
 2) Deep Learning on Graphs. Link: https://arxiv.org/pdf/1812.04202
 Ziwei Zhang, Peng Cui and Wenwu Zhu
