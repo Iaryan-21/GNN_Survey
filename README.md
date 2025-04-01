@@ -1,8 +1,5 @@
 # Graph Neural Network Survey
 
-
-## Comprehensive Dive 
-
 1. **A Comprehensive Survey on Graph Neural Networks**  
    *Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu*  
    arXiv 2019  
