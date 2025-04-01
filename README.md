@@ -1,8 +1,7 @@
 # Graph Neural Network Survey
 
-A curated list of influential research papers on Graph Neural Networks.
 
-## Papers
+## Comprehensive Dive 
 
 1. **A Comprehensive Survey on Graph Neural Networks**  
    *Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu*  
