@@ -37,3 +37,22 @@
    *Yaochen Xie, Zhao Xu, Jingtun Zhang, Zhangyang Wang, Shuiwang Ji*  
    IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2022  
    [Paper](https://ieeexplore.ieee.org/abstract/document/9764632)
+
+
+## Model Types
+Recurrent GNN
+1. **Gated Graph Recurrent Neural Networks**
+   *Luana Ruiz, Fernando Gama and Alejandro Ribeiro*
+   Arxiv 2020
+   [Paper](https://arxiv.org/pdf/2002.01038)
+
+2. **upervised neural networks for the classification of structures**
+   *A. Sperduti and A. Starita*
+   IEEE Transactions on Neural Networks, vol. 8, no. 3, pp. 714–735, 1997.
+   [Paper](https://ieeexplore.ieee.org/document/572108)
+
+3. **Contextual processing of structured data by recursive cascade correlation,*
+   *A. Micheli, D. Sona, and A. Sperduti*
+   [Paper](https://pubmed.ncbi.nlm.nih.gov/15565768/)
+   
+  
