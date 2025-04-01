@@ -55,10 +55,12 @@ Recurrent GNN
 
 3. **Contextual processing of structured data by recursive cascade correlation,**
    *A.Micheli, D. Sona, and A. Sperduti*
+   IEEE Transactions on Neural Networks, vol. 15, no. 6, pp. 1396–1410, 2004
    [Paper](https://pubmed.ncbi.nlm.nih.gov/15565768/)
 
-4. **The Graph Neural Network Model**
+5. **The Graph Neural Network Model**
    *Franco Scarselli, Marco Gori, Ah Tsoi, Markus Hagenbuchner, G Monfardini*
+   IEEE Transactions on Neural Networks, vol. 20, no. 1, pp. 61–80, 2009
    [Paper](https://research.monash.edu/en/publications/the-graph-neural-network-model)
    
   
