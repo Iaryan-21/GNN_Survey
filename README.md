@@ -56,5 +56,9 @@ Recurrent GNN
 3. **Contextual processing of structured data by recursive cascade correlation,**
    *A.Micheli, D. Sona, and A. Sperduti*
    [Paper](https://pubmed.ncbi.nlm.nih.gov/15565768/)
+
+4. **The Graph Neural Network Model**
+   *Franco Scarselli, Marco Gori, Ah Tsoi, Markus Hagenbuchner, G Monfardini*
+   [Paper](https://research.monash.edu/en/publications/the-graph-neural-network-model)
    
   
